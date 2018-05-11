@@ -1,0 +1,6 @@
+[package]
+name = "saers"
+version = "0.1.0"
+authors = ["IK <nada@new.local>"]
+
+[dependencies]
