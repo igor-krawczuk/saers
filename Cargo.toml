@@ -4,7 +4,7 @@ version = "0.0.1"
 authors = ["IK <saers@krawczuk.eu>"]
 license = "Apache-2.0"
 description = "Easy to use black box optimization using surrogate models and evolutionary Algorithms"
-repository = "https://github.com:igor-krawczuk/saers.git"
-homepage = "https://github.com:igor-krawczuk/saers"
+repository = "https://github.com/igor-krawczuk/saers.git"
+homepage = "https://github.com/igor-krawczuk/saers"
 
 [dependencies]
